@@ -14,16 +14,16 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Bhanu Sri Kowru</h3>
+          <h3>Designed and Developed by Nagarani Seelamneni</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} BS</h3>
+          <h3>Copyright © {year} NS</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/bhanu-sri"
+                href="https://github.com/naga1914"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -33,7 +33,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://leetcode.com/u/bhanu__sri__369"
+                href="https://leetcode.com/u/22nn1a0551nagarani/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/kbhanusri/"
+                href="https://www.linkedin.com/in/Nagarani1914/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -53,14 +53,15 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="mailto:bhanusri.kowru@gmail.com"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
+              href="https://mail.google.com/mail/u/0/?view=cm&to=nagaraniseelamneni@gmail.com"
+              style={{ color: "white" }}
+              target="_blank"
+              rel="noopener noreferrer"
               >
-                <MdEmail />
-              </a>
+              <MdEmail />
+             </a>
             </li>
+
           </ul>
         </Col>
       </Row>

@@ -92,19 +92,9 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
-            <Nav.Item>
-              <Nav.Link
-                href="https://medium.com/@bhanusri.kowru"
-                target="_blank"
-                rel="noreferrer"
-              >
-                <ImBlog style={{ marginBottom: "2px" }} /> Blogs
-              </Nav.Link>
-            </Nav.Item>
-
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/bhanu-sri/React_Portfolio"
+                href="https://github.com/naga1914/NagaRani-Portfolio"
                 target="_blank"
                 className="fork-btn-inner"
               >

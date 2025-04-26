@@ -7,20 +7,15 @@ import {
   DiMongodb,
   DiPython,
   DiJava,
-  DiCode,
 } from "react-icons/di";
-import { SiBootstrap, SiOpencv } from "react-icons/si";
-import { SiFlask, SiMysql } from "react-icons/si";
-import { FaBrain } from "react-icons/fa"; // Placeholder icon for Scikit-Learn
-import { FaRobot } from "react-icons/fa";
+import { SiBootstrap} from "react-icons/si";
+import { SiMysql } from "react-icons/si";
+import { SiHtml5, SiCss3, SiTailwindcss } from "react-icons/si";
 
 
 function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiCode /><br/> C
-      </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJava /> Java
       </Col>
@@ -46,17 +41,15 @@ function Techstack() {
         <SiBootstrap /> Bootstrap
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiFlask /> Flask
+        <SiHtml5 /> HTML
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-       <FaRobot/> NLP&LLM
+        <SiCss3 /> CSS
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiOpencv /> OpenCV
+        <SiTailwindcss /> Tailwind CSS
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <FaBrain /> Scikit-Learn
-      </Col>
+
       
     </Row>
   );

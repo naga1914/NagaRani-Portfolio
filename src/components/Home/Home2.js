@@ -20,27 +20,27 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I always believe in that   "If You Can Dream It, You Can Do It"...🤷‍♂️
+              I always believe in that   "Success doesn’t come from what you do occasionally, it comes from what you do consistently."
               <br />
-              <br />I am fluent in programming languages like
+              <br />I’m Nagarani, one among the few who don’t just follow trends — I build the future with them. As a passionate and purpose-driven developer, I specialize in
               <i>
-                <b className="purple"> C, Java and Python. </b>
+                <b className="purple"> Java, Python, the MERN Stack, and AI-powered software solutions.</b>
               </i>
             <br/>
-             
-              <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Machine Learning Projects </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Artificial Intelligence.
-                </b>
+             I’m passionate about building 
+             <i>
+                <b className="purple">full-stack applications and intelligent AI-driven </b>
               </i>
-              <br />
-              <br />
-              My downtime is often spent engaging in hobbies such as <b className="purple">Nature Photography, Blogging,</b>  and <b className="purple">Pencil Sketching</b> showcasing my affinity for artistic expression and the wonders of nature.
-              
+             solutions that solve real-world problems. I aspire to contribute to impactful 
+             <i>
+                <b className="purple">open-source projects and collaborate </b>
+              </i>
+             with communities that drive innovation forward.
+             <br/>
+            <i>
+              <b className="purple">I’m driven by the challenge of turning bold ideas into scalable, future-ready products.</b>
+            </i>
+            <br/>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -58,7 +58,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/bhanu-sri"
+                  href="https://github.com/naga1914"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -68,7 +68,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://leetcode.com/u/bhanu__sri__369"
+                  href="https://leetcode.com/u/22nn1a0551nagarani/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -78,7 +78,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/kbhanusri"
+                  href="https://www.linkedin.com/in/Nagarani1914/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -88,12 +88,12 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="mailto:bhanusri.kowru@gmail.com"
+                  href="https://mail.google.com/mail/u/0/?view=cm&to=nagaraniseelamneni@gmail.com"
                   target="_blank"
                   rel="noreferrer"
-                  className="icon-colour home-social-icons"
-                >
-                  <MdEmail />
+                  className="icon-colour  home-social-icons"
+                  >
+                <MdEmail />
                 </a>
               </li>
             </ul>
