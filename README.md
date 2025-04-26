@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Portfolio React.js Project
 
@@ -53,3 +54,6 @@ You can view the live demo here: https://bhanusriportfolio.netlify.app/
 
 ## Credits
 - **GitHub:** (https://github.com/soumyajit4419)
+=======
+# NagaRani-Portfolio
+>>>>>>> 94e8f1ba9ed4e9576e8cf5a07923e90fd734d202
