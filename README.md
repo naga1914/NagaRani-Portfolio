@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Portfolio React.js Project
 
 This project serves as my portfolio website built with React.js. It includes sections for About Me, Home, Resume, Blogs, and a Git repository showcase of starred projects.
