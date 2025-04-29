@@ -42,18 +42,3 @@ To get a local copy up and running, follow these simple steps:
    ```
 
    Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-## Deployment
-
-This project is deployed using Netlify, automatically triggered by pushes to the main branch. To deploy your own version:
-
-Connect your GitHub repository to Netlify.
-Ensure your build command is set to npm run build and the publish directory is set to build/.
-Netlify will automatically build and deploy your site whenever you push changes to GitHub.
-You can view the live demo here: https://bhanusriportfolio.netlify.app/
-
-## Credits
-- **GitHub:** (https://github.com/soumyajit4419)
-=======
-# NagaRani-Portfolio
->>>>>>> 94e8f1ba9ed4e9576e8cf5a07923e90fd734d202
