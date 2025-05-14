@@ -24,7 +24,7 @@ To get a local copy up and running, follow these simple steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/bhanu-sri/React_Portfolio.git
+   git clone https://github.com/naga1914/NagaRani-Portfolio
    ```
 
 2. **Install dependencies:**
