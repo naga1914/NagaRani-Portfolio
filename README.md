@@ -1,59 +1,80 @@
-<<<<<<< HEAD
+#  Nagarani Seelamneni | Developer Portfolio
 
-# Portfolio React.js Project
+Hi there 👋 I'm **Nagarani Seelamneni**, a full-stack developer, AI explorer, and published researcher — passionate about building intelligent and impactful software.  
+This is my **personal portfolio** that showcases my work, projects, skills, open-source contributions, and publication highlights in a clean and modern web interface.
 
-This project serves as my portfolio website built with React.js. It includes sections for About Me, Home, Resume, Blogs, and a Git repository showcase of starred projects.
+---
 
-## Features
+##  Features
 
-- **About Me:** Brief introduction and background.
-- **Home:** Landing page with contact information.
-- **Resume:** Detailed resume or CV.
-- **Blogs:** Collection of blog posts or articles.
-- **Git Repo Star Projects:** Showcase of starred GitHub repositories.
+-  Interactive and responsive React-based UI
+-  Built using MERN stack and modern frontend practices
+-  Smooth scroll, dark/light toggle, Framer Motion animations
+-  Project showcase with live demo and GitHub links
+-  Resume download option
+-  Includes AI-powered and ML-based project demos
+-  Highlights:
+  - 2× Open Source Contributor @Stylelint
+  - UGC-CARE Published Research Paper (Blockchain in Real Estate)
+  - Java DSA practice, ML projects, and more
 
-## Technologies Used
+---
 
-- React.js
-- HTML5
-- CSS3
-- JavaScript (ES6+)
+## 🛠 Tech Stack
 
-## Getting Started
+**Frontend**:  
+`React.js`, `Bootstrap`, `React-Bootstrap`, `Framer Motion`, `React Icons`, `React Router`, `React Parallax Tilt`
 
-To get a local copy up and running, follow these simple steps:
+**Backend**:  
+`Node.js`, `Express.js`, `MongoDB`, `Django`, `FastAPI`
 
-1. **Clone the repository:**
+**AI/ML Tools**:  
+`Python`, `Scikit-learn`, `TensorFlow`, `Gemini API`, `OpenAI`
 
-   ```bash
-   git clone https://github.com/bhanu-sri/React_Portfolio.git
-   ```
+**Tools & Services**:  
+`Git`, `GitHub`, `VS Code`, `Figma`, `Vercel`, `Postman`
 
-2. **Install dependencies:**
+---
 
-   ```bash
-   npm install
-   ```
+>  Want to see it live?  
+ **Live URL**: [nagaraniseelamneni.vercel.app](https://nagaraniseelamneni.vercel.app)
 
-3. **Run the application:**
+---
 
-   ```bash
-   npm start
-   ```
+##  Research Publication
 
-   Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+**Title**: A Systematic Review on Blockchain Technology for Real Estate Sector  
+**Published In**: JETIR, Volume 11, Issue 10 (Oct 2024)  
+**ISSN**: 2349-5162  
+ [View Paper](https://www.jetir.org/view?paper=JETIRGN06044)
 
-## Deployment
+---
 
-This project is deployed using Netlify, automatically triggered by pushes to the main branch. To deploy your own version:
+##  Projects Highlighted
 
-Connect your GitHub repository to Netlify.
-Ensure your build command is set to npm run build and the publish directory is set to build/.
-Netlify will automatically build and deploy your site whenever you push changes to GitHub.
-You can view the live demo here: https://bhanusriportfolio.netlify.app/
+| Project | Description | Tech |
+|--------|-------------|------|
+| AI-Powered Code Reviewer | Real-time code review tool using Gemini AI, MERN | `React`, `Node`, `Gemini API`, `MongoDB`, `Clerk` |
+| AI Fashion Stylist | E-commerce with AI outfit suggestions | `HTML`, `CSS`, `JS`, `Gemini API` |
+| Rainfall Prediction ML App | ML-based rain predictor using logistic regression | `Python`, `Django`, `HTML`, `CSS` |
+| Resume Builder (Django) | Simple form-based resume generator | `Django`, `HTML`, `CSS` |
 
-## Credits
-- **GitHub:** (https://github.com/soumyajit4419)
-=======
-# NagaRani-Portfolio
->>>>>>> 94e8f1ba9ed4e9576e8cf5a07923e90fd734d202
+> 👉 View more in the **Projects** section of the portfolio
+
+---
+
+##  Connect With Me
+
+-  [LinkedIn](https://www.linkedin.com/in/Nagarani1914)
+-  [GitHub](https://github.com/naga1914)
+- Email: [nagaraniseelamneni@gmail.com](mailto:nagaraniseelamneni@gmail.com)
+
+---
+
+##  Installation (Optional if running locally)
+
+```bash
+git clone https://github.com/naga1914/NagaRani-Portfolio.git
+cd NagaRani-Portfolio
+npm install
+npm start
