@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Nagarani </span>
             from <span className="purple"> Andhra Pradesh, India.</span>
             <br />
-            I am currently pursuing my Pre-final year of Engineering in the department of Computer science Engineering at Vignan's Nirulainstitute of technology and science for Women's College, Guntur. 
+            I am currently pursuing my final year of Engineering in the department of Computer science Engineering at Vignan's Nirulainstitute of technology and science for Women's College, Guntur. 
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

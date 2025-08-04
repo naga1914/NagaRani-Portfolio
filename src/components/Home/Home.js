@@ -25,10 +25,15 @@ function Home() {
                 I'M
                 <strong className="main-name"> NagaRani Seelamneni</strong>
               </h1>
-
               <div style={{ padding: 50, textAlign: "left" }}>
-                <Type />
-              </div>
+  <Type />
+  <p style={{ fontSize: "1.2em", paddingTop: "20px", fontWeight: 500 }}>
+    I build intelligent, full-stack applications using MERN, Python, and AI — turning bold ideas into powerful products.
+    <br />
+    2× Open Source Contributor • UGC-CARE Published Researcher • Passionate AI Explorer
+  </p>
+</div>
+
             </Col>
 
             <Col md={5} style={{ paddingBottom: 20 }}>

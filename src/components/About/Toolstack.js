@@ -4,21 +4,24 @@ import {
   SiVisualstudiocode,
   SiGithub,
   SiFigma,
+  SiPostman,
+  SiVercel,
 } from "react-icons/si";
 
 function Toolstack() {
   return (
-    <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiFigma />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiVisualstudiocode />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiGithub />
-      </Col>
-    </Row>
+    <>
+      <h1 className="project-heading">
+        <strong className="purple">Tools</strong> I Work With
+      </h1>
+      <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
+        <Col xs={4} md={2} className="tech-icons"><SiVisualstudiocode /></Col>
+        <Col xs={4} md={2} className="tech-icons"><SiGithub /></Col>
+        <Col xs={4} md={2} className="tech-icons"><SiFigma /></Col>
+        <Col xs={4} md={2} className="tech-icons"><SiPostman /></Col>
+        <Col xs={4} md={2} className="tech-icons"><SiVercel /></Col>
+      </Row>
+    </>
   );
 }
 

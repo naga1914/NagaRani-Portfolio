@@ -13,15 +13,32 @@ function ProjectCards(props) {
         <Card.Text style={{ textAlign: "justify" }}>
           {props.description}
         </Card.Text>
+
+        {/* ✅ Skills styled like buttons (non-clickable) */}
+        <div className="d-flex flex-wrap gap-2 mb-3">
+          {props.skills?.map((skill, index) => (
+            <Button
+              key={index}
+              variant="outline-primary"
+              size="sm"
+              style={{
+                pointerEvents: "none", // makes them non-clickable
+                borderRadius: "5px",
+                fontWeight: "500",
+              }}
+            >
+              {skill}
+            </Button>
+          ))}
+        </div>
+
+        {/* ✅ GitHub Button */}
         <Button variant="primary" href={props.ghLink} target="_blank">
           <BsGithub /> &nbsp;
           {props.isBlog ? "Blog" : "GitHub"}
         </Button>
-        {"\n"}
-        {"\n"}
 
-        {/* If the component contains Demo link and if it's not a Blog then, it will render the below component  */}
-
+        {/* ✅ Demo Button (if available) */}
         {!props.isBlog && props.demoLink && (
           <Button
             variant="primary"
@@ -30,11 +47,12 @@ function ProjectCards(props) {
             style={{ marginLeft: "10px" }}
           >
             <CgWebsite /> &nbsp;
-            {"Demo"}
+            Demo
           </Button>
         )}
       </Card.Body>
     </Card>
   );
 }
+
 export default ProjectCards;
